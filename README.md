@@ -1,4 +1,4 @@
-                                                                     Demographic-Income-Prediction-Logistic-Regression-vs.-KNN-Analysis
+                      Demographic-Income-Prediction-Logistic-Regression-vs.-KNN-Analysis
 
 📌 Project Overview
 This project focuses on predicting an individual's income level (binary: >50K or <=50K) based on a variety of demographic and socio-economic factors such as age, education, and occupation.
